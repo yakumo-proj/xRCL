@@ -5,14 +5,14 @@ UVL-AU-DU-PCU-CCU-SEU-VEU-Remarksを参考に、VRoidにかかる商品の頒布
 著作物の利用にかかる定形約款です。
 UVLについての情報は http://uv-license.com/ を参考にしてください。
 
-本定形約款を、VRCPL(VRoid Creators' Permissive License) Standatd と定め、必要に応じて派生ライセンスを策定予定です。
+本定形約款を、VRCPL(VRoid Creators' Product License) Standatd と定め、必要に応じて派生ライセンスを策定予定です。
 
 当ドキュメントはCreative Commons BY-SA 2.1-JPが適用されます。
 https://creativecommons.org/licenses/by-sa/2.1/jp/legalcode
 
 本定形約款の全部に賛同いただけるクリエイター様は、著作者名・頒布・販売元・URLなどを自身のURLに差し替えたうえでご自身のライセンスを公開することができます。
 
-また、クリエイター様各位は、本定形約款を参照・改変して独自の定形約款を作成することができますが、VRCPL(VRoid Creators' Permissive License)もしくはこれと混同する恐れのある名称を用いてはいけません。
+また、クリエイター様各位は、本定形約款を参照・改変して独自の定形約款を作成することができますが、VRCPLもしくはこれと混同する恐れのある名称を用いてはいけません。
 
 また、英語版を随時展開予定です。
 
@@ -23,7 +23,7 @@ https://creativecommons.org/licenses/by-sa/2.1/jp/legalcode
 -->
 
 # VRoidクリエイターのためのユーザー利用許諾書
-## VRCPL(VRoid Creators' Permissive License) Standard
+## VRCPL(VRoid Creators' Product License) Standard
 
 - VRCPL-Standard 第一版（2020.04.18)
 - 著作権者: 八雲佐世 <!-- あなたの名前 -->
