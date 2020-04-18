@@ -1,12 +1,12 @@
 このドキュメントは、本レポジトリの作者である八雲佐世が作成したものです。
 
-# VRCPL(VRoid Creators' Permissive License)とは
+# VRCPL(VRoid Creators' Product License)とは
 
 UVL-AU-DU-PCU-CCU-SEU-VEU-Remarksを参考に、VRoidにかかる商品の頒布形態に即して整理ならびに欠点を補完したライセンスです。
 UVLについての情報は http://uv-license.com/ を参考にしてください。
 
 VRoid向けにライセンスを策定することを主眼に規約作成しましたが、アバターにかかわる３DデータなどであればVRoid製アバターのみに限定されません。
-（VRChat-users' Permissive Licenseとでも読み替えてください）
+（VRChat-users' Product Licenseとでも読み替えてください）
 
 VRCPLは以下のような特徴があります。
 
@@ -35,7 +35,7 @@ pixiv者から二次的著作者にあたる各クリエイター各位におい
 ### 派生バージョンの認容とVRCPLの名称独占
 
 各著作物のコンテンツホルダーは、本利用許諾を参照・改変して独自の利用規約を作成することができますが、
-ライセンス名としてVRCPL(VRoid Creators' Permissive License)もしくはこれと混同する恐れのある名称を用いてはいけません。
+ライセンス名としてVRCPL(VRoid Creators' Product License)もしくはこれと混同する恐れのある名称を用いてはいけません。
 
 ### 最新バージョンの選択的採用権
 また、VRCPLを採用するコンテンツホルダーは、VRCPLの最新バージョンへの更新は各自任意で行うことができるほか、いつでも内容互換の独自ライセンスに移行する権利が与えられますので、VRCPLのバージョンアップ内容が著作権者と利用者の契約内容を不当に変容させることを回避することができます。
