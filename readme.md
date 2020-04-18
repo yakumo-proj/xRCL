@@ -5,6 +5,9 @@
 UVL-AU-DU-PCU-CCU-SEU-VEU-Remarksを参考に、VRoidにかかる商品の頒布形態に即して整理ならびに欠点を補完したライセンスです。
 UVLについての情報は http://uv-license.com/ を参考にしてください。
 
+VRoid向けにライセンスを策定することを主眼に規約作成しましたが、アバターにかかわる３DデータなどであればVRoid製アバターのみに限定されません。
+（VRChat-users' Permissive Licenseとでも読み替えてください）
+
 VRCPLは以下のような特徴があります。
 
 - VRoidのモデルデータおよびテクスチャデータの使用にあたり平易な言葉で過不足のない利用許諾
