@@ -22,7 +22,7 @@ https://creativecommons.org/licenses/by-sa/2.1/jp/legalcode
 
 -->
 
-# エンドユーザー向け利用許諾書
+# VRoidクリエイターのためのユーザー利用許諾書
 ## VRCPL(VRoid Creators' Permissive License) Standard
 
 - VRCPL-Standard 第一版（2020.04.18)
