@@ -1,6 +1,6 @@
 このドキュメントは、本レポジトリの作者である八雲佐世が作成したものです。
 
-# VRCPLとは
+# VRCPL(VRoid Creators' Permissive License)とは
 
 UVL-AU-DU-PCU-CCU-SEU-VEU-Remarksを参考に、VRoidにかかる商品の頒布形態に即して整理ならびに欠点を補完したライセンスです。
 UVLについての情報は http://uv-license.com/ を参考にしてください。
