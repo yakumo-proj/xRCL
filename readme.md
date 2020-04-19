@@ -2,7 +2,7 @@
 
 # VRCPL(VRoid Creators' Product License)とは
 
-UVL-AU-DU-PCU-CCU-SEU-VEU-Remarksを参考に、VRoid Studio向けの商品の頒布形態に即して整理ならびに欠点を補完したライセンスです。
+UVL-AU-DU-PCU-CCU-SEU-VEU-Remarksを参考に、基礎条項第３条のうち権利者の自由を不合理に制限する可能性のある文言を排除するなどし、VRoid Studio向けの商品の頒布形態に即して整理ならびに欠点を補完したライセンスです。
 UVLについての情報は http://uv-license.com/ を参考にしてください。
 
 VRoid向けのテクスチャやヘアスタイルなどの素材データに焦点を当てたライセンスを策定することを主眼に規約作成しましたが、アバターにかかわる３DデータなどであればVRoid製アバターのみに限定されません（VRChat-users' Product Licenseとでも読み替えてください）。
