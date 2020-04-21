@@ -6,13 +6,14 @@ UVL-AU-DU-PCU-CCU-SEU-VEU-Remarksを参考に、VRoidにかかる商品の頒布
 UVLについての情報は http://uv-license.com/ を参考にしてください。
 
 本定形約款の内容を、xRCL(xR Creators' License) Standatd と定め、必要に応じて派生ライセンスを策定予定です。
+(xR:Cross-Reality)
 
 当ドキュメントはCreative Commons BY-SA 2.1-JPが適用されます。
 https://creativecommons.org/licenses/by-sa/2.1/jp/legalcode
 
-本定形約款の全部に賛同いただけるクリエイター様は、著作者名・頒布・販売元・URLなどを自身のURLに差し替えたうえで、ご自身の著作物のライセンスとして利用することができます。
+本定形約款の全部に賛同いただけるクリエイター様は、コメントの著作者名・頒布・販売元・URLなどを自身のものに差し替えたうえで、ご自身の著作物のライセンスとして利用することができます。
 
-また、クリエイター様各位は、本定形約款を参照・改変して独自の定形約款を作成することができます。
+また、一部または大幅に改変されたいクリエイター様は、本定形約款を参照・改変して独自の定形約款を作成することができます。
 
 また、英語版を随時展開予定です。
 
@@ -22,8 +23,8 @@ https://creativecommons.org/licenses/by-sa/2.1/jp/legalcode
 
 -->
 
-# VRoidクリエイターのための利用許諾書
-## VRCPL(VRoid Creators' Product License) Standard
+# VRoidとxRコンテンツクリエイターのための利用許諾書
+## xRCL(xR Creators' License) Standard
 
 <!-- ここは書き換えてOKです -->
 - 著作権者: 八雲佐世 <!-- あなたの名前 -->
