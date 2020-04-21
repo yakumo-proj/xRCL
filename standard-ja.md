@@ -25,6 +25,7 @@ https://creativecommons.org/licenses/by-sa/2.1/jp/legalcode
 # VRoidクリエイターのための利用許諾書
 ## VRCPL(VRoid Creators' Product License) Standard
 
+<!-- ここは改変してOKです -->
 - 著作権者: 八雲佐世 <!-- あなたの名前 -->
 - 頒布・販売元: すさのお工芸店 <!-- あなたのお店 -->
   -  URL: https://susanoo.booth.pm/ <!-- 同 -->
@@ -83,5 +84,8 @@ https://creativecommons.org/licenses/by-sa/2.1/jp/legalcode
 本利用規約は日本国の法律・条例等に基づいて解釈され、本規約に起因または関連する当店とお客様との間の紛争については、名古屋地方裁判所<!-- あなたの土地管轄の地方裁判所 -->を第一審の専属的合意管轄裁判所とします。
 
 -----
+[本ドキュメントのオリジナル](https://github.com/yakumo-proj/VRCPL/edit/master/standard-ja.md)
 
-以上
+License: CC-BY-SA 2.1 JP
+
+(C)Copyright 2019-2020 Yakumo Sayo, Susanoo Lab. Rights reserved.
