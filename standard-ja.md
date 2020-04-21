@@ -84,7 +84,7 @@ https://creativecommons.org/licenses/by-sa/2.1/jp/legalcode
 本利用規約は日本国の法律・条例等に基づいて解釈され、本規約に起因または関連する当店とお客様との間の紛争については、名古屋地方裁判所<!-- あなたの土地管轄の地方裁判所 -->を第一審の専属的合意管轄裁判所とします。
 
 -----
-[本ドキュメントのオリジナル](https://github.com/yakumo-proj/VRCPL/edit/master/standard-ja.md)
+[本ドキュメントのオリジナル](https://github.com/yakumo-proj/VRCPL/master/standard-ja.md)
 
 - Document License: CC-BY-SA 2.1 JP (with some exception)
  - (C)Copyright 2019-2020 Yakumo Sayo, Susanoo Lab. All rights reserved.
