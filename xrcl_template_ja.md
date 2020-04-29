@@ -94,7 +94,7 @@ https://creativecommons.org/licenses/by-sa/2.1/jp/legalcode
 を第一審の専属的合意管轄裁判所とします。　
 
 -----
-[本ドキュメントのオリジナル](https://github.com/yakumo-proj/RCL/blob/master/standard-ja.md)
+[本ドキュメントのオリジナル](https://github.com/yakumo-proj/xRCL/blob/master/standard-ja.md)
 
 - Document License: CC-BY-SA 2.1 JP (with some exception)
  - (C)Copyright 2019-2020 Yakumo Sayo, Susanoo Lab. All rights reserved.
