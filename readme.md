@@ -16,8 +16,8 @@ xRCLは以下のような特徴があります。
 - 営利法人向け利用の事前許諾
 
 ## 利用許諾書
-- [日本語版](https://github.com/yakumo-proj/xRCL/blob/master/xrcl_tempplate_ja.md) 
-  - [サンプル(八雲佐世が実際に運用中)](https://github.com/yakumo-proj/xRCL/blob/master/standard-ja.md) 
+- [日本語版](./xrcl_template_ja.md) 
+  - [サンプル(八雲佐世が実際に運用中)](./standard-ja.md) 
 - 上記の改変用テンプレ（準備中)
 - 英語版(準備中)
 
