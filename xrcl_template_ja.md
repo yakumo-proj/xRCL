@@ -31,7 +31,7 @@ https://creativecommons.org/licenses/by-sa/2.1/jp/legalcode
   -  URL:  <!-- 同 -->
 <!-- 利用規約の他に独自の運用基準を定める場合、各自用意してください -->
 <!-- サンプルとして八雲作成のガイドラインを残しておきます
-- VRoidをはじめとする各種サービスに関する規約の運用基準は[ガイドライン(別ページ)](https://github.com/yakumo-proj/VRCPL/blob/master/vroid-guidelines-ja.md) を参照ください。
+- VRoidをはじめとする各種サービスに関する規約の運用基準は[ガイドライン(別ページ)](https://github.com/yakumo-proj/xRCL/blob/master/vroid-guidelines-ja.md) を参照ください。
 -->
 
 ### 確認のお願い
