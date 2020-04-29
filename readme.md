@@ -15,8 +15,9 @@ xRCLは以下のような特徴があります。
 - ライブ配信などの商用利用に用いることの許可
 - 営利法人向け利用の事前許諾
 
-## 利用許諾書の内容等
-- [日本語版](https://github.com/yakumo-proj/VRCPL/blob/master/standard-ja.md) （佐世専用で運用中） 
+## 利用許諾書
+- [日本語版](https://github.com/yakumo-proj/xRCL/blob/master/xrcl_tempplate_ja.md) 
+  - [サンプル(八雲佐世が実際に運用中)](https://github.com/yakumo-proj/xRCL/blob/master/standard-ja.md) 
 - 上記の改変用テンプレ（準備中)
 - 英語版(準備中)
 
