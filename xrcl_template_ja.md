@@ -95,6 +95,7 @@ https://creativecommons.org/licenses/by-sa/2.1/jp/legalcode
 
 -----
 [本ドキュメントのオリジナル](https://github.com/yakumo-proj/xRCL/blob/master/standard-ja.md)
-
-- xRCL Documents: CC-BY-SA 2.1 JP (with some exception)
-  - (C) Copyright 2019-2020 Yakumo Sayo, Susanoo Lab. All rights reserved.
+<br>
+xRCL Documents: CC-BY-SA 2.1 JP (with some exception)
+<br>
+(C) Copyright 2019-2020 Yakumo Sayo, Susanoo Lab. All rights reserved.
