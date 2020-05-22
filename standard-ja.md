@@ -3,7 +3,7 @@
 
 当利用規約は、VN3L(Virtual Native 3D-Model License) の趣旨に賛同しつつ、VRoid Studioユーザー視点で
 条項を整理し、利用実態に即し、より簡潔にまとめることを目的としています。
-VNCLについては以下のURLを参照してください。
+VN3Lについては以下のURLを参照してください。
 https://www.vnc-license.org/
 
 本定形約款の内容を、xRCL(xR Creators' License) Standatd と定め、必要に応じて規定の許諾事項の異なる
@@ -18,6 +18,13 @@ https://creativecommons.org/licenses/by-sa/2.1/jp/legalcode
 また、一部または大幅に改変されたいクリエイター様は、本定形約款を参照・改変して独自の定形約款を作成することができます。
 
 また、英語版を随時展開予定です。
+
+VN3Lと比較すると当ライセンスは個別の反社会的勢力排除条項を定めておりませんが、その理由は以下URLの通りです。
+
+当店BOOTH「佐世の裁縫台（すさのお工芸店）」における反社会的勢力排除の方針について
+https://sayo.fanbox.cc/posts/1068046
+ 
+第１条第７号は、お客様におかれましてpixiv、VRoid、BOOTHその他の利用規約を遵守いただくことも含めての記載趣旨となります。
 
 【参考文献】
 ・田中豊「法律文書の作成と基本」（日本評論社）
