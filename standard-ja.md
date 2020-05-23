@@ -108,7 +108,7 @@ https://sayo.fanbox.cc/posts/1068046
 本規約は2020年5月22日に改訂され、同日施行されます。
 
 -----
-[本ドキュメントのオリジナル](https://github.com/yakumo-proj/VRCPL/blob/master/standard-ja.md)
+[本ドキュメントのオリジナル](https://github.com/yakumo-proj/xRCL/blob/master/standard-ja.md)
 
 - Document License: CC-BY-SA 2.1 JP (with some exception)
  - (C)Copyright 2019-2020 Yakumo Sayo, Susanoo Lab. All rights reserved.
