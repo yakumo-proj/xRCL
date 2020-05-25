@@ -70,7 +70,7 @@ Regardless of your modification, the title or right relating to any intellectual
 3. We are liable for warranty and liability for damages due to non-compliance or other reasons only when there is a reason attributable to us, but for the purchase of this product unless it is intentional or gross negligence in our shop the amount paid by yourself is the upper limit. If it becomes difficult to maintain our shop due to guarantee or compensation, the scope of liability may be limited or exempted within the scope of law.
 
 ## 7. Prohibition of Transfer of rights
-You shall have the right to download and use this product from the distributor, regardless of whether the use right of this product is abandoned or lost, unless the shop or the sales contractor permits the transfer of the right. Cannot be transferred to.
+You cannot transfer the right to use the granted product to a third party unless the shop or the distributor permits the transfer of the right.
 
 ## 8. Jurisdiction
 These Terms are interpreted based on the laws and ordinances of Japan, and regarding disputes between our shop and you caused by or related to these Terms, the Nagoya District Court shall be the exclusive agreement jurisdictional court of the first instance. 　
