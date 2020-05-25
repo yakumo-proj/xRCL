@@ -31,8 +31,10 @@ https://sayo.fanbox.cc/posts/1068046
 ・佐伯仁志、宇賀克也「ポケット六法　令和２年版」（有斐閣）
 -->
 
-# VRoid, セシル変身, その他3Dモデル製作ツールを利用するコンテンツクリエイターのための利用許諾書
-## xRCL(xR Creators' License) Standard
+# xRCL(xR Creators' License) Standard
+
+VRoid, セシル変身, その他3Dモデル製作ツールを利用するコンテンツクリエイターのための利用許諾書
+
 
 <!-- ここは書き換えてOKです -->
 - 著作権者: 八雲佐世 <!-- あなたの名前 -->
