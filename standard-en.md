@@ -14,14 +14,14 @@ License Agreement for content creators, who use VRoid, Cecil-Henshin, and other 
 -  (C)Copyright 2019-2020 Yakumo Sayo, Susanoo Lab. All rights reserved. <!-- 米国DMCAに基づく表記 -->
 
 <!-- 利用規約の他に独自の運用基準を定める場合、各自用意してください -->
-- Please refer to the [guideline (separate page. sorry, Japanese only)](https://github.com/yakumo-proj/VRCPL/blob/master/vroid-guidelines-ja.md) for the operating standards of the rules regarding various services such as VRoid.
+- Please refer to the [guideline (separate page. sorry, Japanese only)](https://github.com/yakumo-proj/xRCL/blob/master/vroid-guidelines-ja.md) for the operating standards of the rules regarding various services such as VRoid.
 
 ## ATTENTION
 1. In using the products (hereinafter referred to as "this product") that are sold and distributed under the name of the copyright holder and distributor (hereinafter referred to as "our shop") mentioned above, this agreement Must agree to.
 2. This agreement is agreed between you and our shop, and provides you with important information regarding the use of this product.
 3. Before using this agreement, you or your parent, if you are a minor, read and agree to all the terms of this agreement before using this agreement.
 4. The terms of this agreement apply to all users of this product, and by using this product or purchasing from our shop for use, it is deemed that you have agreed to the terms of this agreement.
-5. The original version of these Terms of Use shall be the Japanese.
+5. [The original version of these Terms of Use shall be the Japanese.](./standard-ja.md)
 -----
 
 ## 1. License
