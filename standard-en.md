@@ -46,7 +46,7 @@ Subject to compliance with this agreement, the you are licensed to use our produ
   <dd>(c) For taking photos, distributing videos, and other activities using the Model, display as necessary through websites, SNS, and other means to prevent misidentification of ownership.
   <dd>(d) When expressing expressions for adults (R18, etc.) when publishing the Model itself or content using this, follow the appropriate expression regulations stipulated by laws and services of each company.
   <dd>(e) Do not engage in any religious or political activities with respect to the publication of the Model itself or the content using it, unless otherwise authorized by our shop.
-  <dd>(f) With respect to the distribution of digital data that is the secondary creation of this product, except in the case specified in item 2, it can be done only by a method that does not divert the data of this product itself, without prior permission.
+  <dd>(f) With respect to the distribution of digital data that is the secondary creation of this product, except in the case specified in subparagraph (b), it can be done only by a method that does not divert the data of this product itself, without prior permission.
   <dd>(g) If you are a business operator who plans to exceed the annual sales of 10,000,000 JPY or to complete the settlement within one year, prior permission is required for external use of the Model that can be involved in the business.
   </dl>
      
