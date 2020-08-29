@@ -44,7 +44,7 @@ VRoid, セシル変身, その他3Dモデル製作ツールを利用するコン
 
 <!-- 利用規約の他に独自の運用基準を定める場合、各自用意してください -->
 - VRoidをはじめとする各種サービスに関する規約の運用基準は[ガイドライン(別ページ)](https://github.com/yakumo-proj/VRCPL/blob/master/vroid-guidelines-ja.md) を参照ください。
-- [English translated version of there Terms (sepaarate page)](./standard-en.md)
+- [English translated version of there Terms (separate page)](./standard-en.md)
 
 ### 確認のお願い
 1. お客様が頭記の著作権者および頒布・販売元（以下、「当店」といいます）の名義において販売・頒布されます製品（以下、「本製品」といいます）を利用するにあたり、本規約に同意いただく必要があります。
