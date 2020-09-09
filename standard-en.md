@@ -5,7 +5,7 @@
 -->
 
 # xRCL(xR Creators' License) Standard
-License Agreement for content creators, who use VRoid, Cecil-Henshin, and other 3D model production tools.
+License Agreement for content creators, who use VRoid, and other 3D model production tools.
 
 <!-- ここは書き換えてOKです -->
 - Copyright holder: Yakumo Sayo <!-- あなたの名前 -->
