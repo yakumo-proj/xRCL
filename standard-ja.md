@@ -33,7 +33,7 @@ https://sayo.fanbox.cc/posts/1068046
 
 # xRCL(xR Creators' License) Standard
 
-VRoid, セシル変身, その他3Dモデル製作ツールを利用するコンテンツクリエイターのための利用許諾書
+VRoidその他3Dモデル製作ツールを利用するコンテンツクリエイターのための利用許諾書
 
 
 <!-- ここは書き換えてOKです -->
