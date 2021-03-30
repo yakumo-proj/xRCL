@@ -38,10 +38,10 @@ VRoidその他3Dモデル製作ツールを利用するコンテンツクリエ�
 -  (C)Copyright 2019-2020 Yakumo Sayo, Susanoo Lab. All rights reserved. <!-- 米国DMCAに基づく表記 -->
 
 <!-- 利用規約の他に独自の運用基準を定める場合、各自用意してください -->
-- VRoidをはじめとする各種サービスに関する規約の運用基準はを参照ください。
-  - [VRoid関連・その他各種オンラインサービス使用にかかるガイドライン(別ページ)](https://github.com/yakumo-proj/VRCPL/blob/master/vroid-guidelines-ja.md) 
-    - [English translated version of there Terms (separate page)](./standard-en.md)
+- VRoidをはじめとする各種サービスに関する規約の運用基準は以下を参照ください。
+  - [VRoid関連・その他各種オンラインサービス使用にかかるガイドライン(別ページ)](https://github.com/yakumo-proj/xRCL/blob/master/vroid-guidelines-ja.md) 
   - [団体利用についてのガイドライン](https://github.com/yakumo-proj/xRCL/blob/master/group-users-ja.md)
+- [English translated version of there Terms (separate page)](./standard-en.md)
 
 ### 確認のお願い
 1. お客様が頭記の著作権者および頒布・販売元（以下、「当店」といいます）の名義において販売・頒布されます製品（以下、「本製品」といいます）を利用するにあたり、本規約に同意いただく必要があります。
@@ -105,7 +105,7 @@ VRoidその他3Dモデル製作ツールを利用するコンテンツクリエ�
 
 
 ## 附則
-本規約は2020年5月24日に改訂され、同日施行されます。
+本規約は2021年3月30日に改訂され、同日施行されます。
 
 -----
 [本ドキュメントのオリジナル](https://github.com/yakumo-proj/xRCL/blob/master/standard-ja.md)
